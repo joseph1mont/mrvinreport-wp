@@ -1,0 +1,109 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 28px;
+  margin-left: 50px;
+  color: #ff1c64;
+}
+
+span {
+  font-weight: bold;
+}
+
+.hero h2::before {
+  font-family: "fontAwesome";
+  content: "\f1fa";
+  font-size: 2rem;
+  margin: 0 10px 0 0;
+}
+
+.btn-send {
+  background-color: #5cd48f;
+  color: white;
+}
+
+.contact-info {
+  background-color: #5cd48f;
+  color: white;
+}
+
+.contact-info a {
+  font-size: 20px;
+}
+
+.contact-info a::before {
+  font-family: "fontAwesome";
+  font-size: 1.5rem;
+  margin: 0 15px 0 0;
+}
+
+.contact-info a.phone::before {
+  content: "\f095";
+}
+
+.contact-info a.email::before {
+  content: "\f0e0";
+}
+
+.contact-info a.location::before {
+  content: "\f041";
+}
+
+.GoogleMap img {
+  width: 100%;
+  height: 180px;
+}
+
+.support24-7 {
+  color: #ff1c64;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.support24-7::before {
+  background: url('../images/support.png') no-repeat;
+  background-size: 30px 38px;
+  width: 30px;
+  height: 38px;
+  float: left;
+  display: inline-block;
+  content: "";
+}
+
+.support24-7 h1 {
+  position: relative;
+  top: 2px;
+  left: 10px;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 1033px) {
+  .support24-7 h1 {
+    font-size: 28px;
+  }
+}
+
+/* Footer Section */
+footer {
+  width: 100%;
+  background-color: #46474a;
+  color: white;
+}
+
+.footer-copyright {
+  background-color: #303133;
+  color: #757575;
+  font-size: 10px;
+}
+
+.footer-copyright a {
+  font-size: 11px;
+}
+
+a {
+  color: white;
+  font-size: 12px;
+}

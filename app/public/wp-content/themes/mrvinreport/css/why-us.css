@@ -1,0 +1,96 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 28px;
+  margin-left: 50px;
+}
+
+span {
+  color: #ff1c64;
+  font-weight: bold;
+}
+
+.why-us {
+  margin-top: 80px;
+}
+
+.why-us h2::before {
+  /* background: url('../images/why-search.png') no-repeat; */
+  background-size: 50px;
+  width:50px;
+  height: 50px;
+  float: left;
+  display: inline-block;
+  content: "";
+}
+
+.jumbotron {
+  background-color: #5cd48f;
+  color: white;
+  margin-bottom: 70px;
+}
+
+.compare {
+  color: #707070;
+}
+
+th {
+  color: #707070;
+  font-size: 20px;
+}
+
+.table thead th {
+  border-top: 0;
+}
+
+.table-header-logo {
+  width: 80px;
+  height: 40px;
+}
+
+.check-icon {
+  text-align: center;
+}
+
+.check-icon::before {
+  background-image:url('../images/checkedIcon.png');
+  background-repeat: no-repeat;
+  background-size: 30px 30px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  content:"";
+}
+
+.checked-icon::before {
+  background-image:url('../images/checkedIcon.png');
+}
+
+.unchecked-icon::before {
+  background-image:url('../images/uncheckedIcon.png');
+}
+
+/* Footer Section */
+footer {
+  width: 100%;
+  background-color: #46474a;
+  color: white;
+}
+
+.footer-copyright {
+  background-color: #303133;
+  color: #757575;
+  font-size: 10px;
+}
+
+.footer-copyright a {
+  font-size: 11px;
+}
+
+a {
+  color: white;
+  font-size: 12px;
+}

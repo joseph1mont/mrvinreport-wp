@@ -1,0 +1,37 @@
+[07-Aug-2019 19:54:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/mrvinreport/front-page.php:13
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/mrvinreport/front-page.php on line 13
+[07-Aug-2019 19:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/mrvinreport/front-page.php:13
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/mrvinreport/front-page.php on line 13
+[07-Aug-2019 19:55:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/mrvinreport/front-page.php:13
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/mrvinreport/front-page.php on line 13
+[08-Aug-2019 02:34:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 31
+[08-Aug-2019 02:36:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 36
+[08-Aug-2019 02:36:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 36
+[08-Aug-2019 02:36:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 36
+[08-Aug-2019 02:36:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 36
+[08-Aug-2019 02:36:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 36
+[08-Aug-2019 02:36:40 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 42
+[08-Aug-2019 02:36:42 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 42
+[08-Aug-2019 02:36:42 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 42
+[08-Aug-2019 02:42:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/mrvinreport/dealers.php on line 55
+[08-Aug-2019 02:43:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/mrvinreport/dealers.php on line 55
+[08-Aug-2019 02:43:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/mrvinreport/dealers.php on line 55
+[08-Aug-2019 02:43:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/mrvinreport/dealers.php on line 55
+[08-Aug-2019 03:01:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 66
+[08-Aug-2019 03:04:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/mrvinreport/dealers.php on line 66
+[08-Aug-2019 15:13:18 UTC] PHP Parse error:  syntax error, unexpected '' ?>'' (T_CONSTANT_ENCAPSED_STRING) in /app/public/wp-content/themes/mrvinreport/dealers.php on line 14
